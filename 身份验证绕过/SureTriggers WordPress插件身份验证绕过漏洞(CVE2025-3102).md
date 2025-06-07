@@ -16,7 +16,7 @@ SureTriggers WordPress插件包含一个严重的身份验证绕过漏洞（CVE-
 - 函数未校验secret_key有效性，直接允许后续权限操作
 - 利用漏洞可生成具有完全控制权限的管理员账户
 
-![图片来源CN-SEC](.\assets\4-1745914627.png)
+![图片来源CN-SEC](./assets/4-1745914627.png)
 
 ## POC
 
